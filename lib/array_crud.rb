@@ -34,7 +34,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  create_an_array = [1, 2, 3, 4]
+  create_an_array = ["wow", 2, 3, 4]
   create_an_array.first
 end
 
